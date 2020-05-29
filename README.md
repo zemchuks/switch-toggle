@@ -7,4 +7,4 @@
 - css
 - Fontawesome
 
-** This is a [demo](https://zemchuks.github.io/switch-toggle/) **
+**Here is a [demo](https://zemchuks.github.io/switch-toggle/) of the project**
